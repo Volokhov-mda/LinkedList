@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{98819E4B-FC67-48ED-83B5-9C44DD98A29C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{7C683357-9713-44FE-8894-ABD5B68D488E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98819E4B-FC67-48ED-83B5-9C44DD98A29C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{98819E4B-FC67-48ED-83B5-9C44DD98A29C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{98819E4B-FC67-48ED-83B5-9C44DD98A29C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{98819E4B-FC67-48ED-83B5-9C44DD98A29C}.Release|anycpu.Build.0 = Release|anycpu
+		{7C683357-9713-44FE-8894-ABD5B68D488E}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{7C683357-9713-44FE-8894-ABD5B68D488E}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{7C683357-9713-44FE-8894-ABD5B68D488E}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{7C683357-9713-44FE-8894-ABD5B68D488E}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
